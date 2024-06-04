@@ -8,5 +8,7 @@
 <a href="https://github.com/KILABID">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KILABID&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KILABID&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KILABID&line_height=10&card_width=300&layout=compact&theme=tokyonight&langs_count=16"/>
+
 </a>
 </p>
