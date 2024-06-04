@@ -1,3 +1,8 @@
+### Hi there 👋
+- 🔭 I’m currently working on research on my university (wish me luck)
+- 🌱 I have a keen interest in data science, data analysis, AI/ML/DL, computer vision, mobile development, and UI/UX design.
+- 📫 You can reach me on[LinkedIn](https://www.linkedin.com/in/aldi-murad-rifdiansyah-1a3006223/).
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/KILABID">
